@@ -230,7 +230,6 @@ fieldset[disabled] .btn-xl.active {
     background-color: #fec503;
 }
 .navbar-default .navbar-nav > .active > a {
-    background-color: #fed136;
     border-radius: 0;
     color: #fff;
 }
